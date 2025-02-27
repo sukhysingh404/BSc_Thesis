@@ -1,4 +1,3 @@
-# BSc_Thesis
 # BSc Thesis - Energy Consumption Forecasting
 
 ##
